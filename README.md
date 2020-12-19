@@ -1,6 +1,6 @@
 # COEN-11
 Lab 1: Create a division test
-Lab 2: Create an Urgent Care Waiting list using arrays
+Lab 2: Create an Urgent Care Waiting list using arrays\n
 Lab 3: Create an Urgent Care visits simulator(extension of Lab 2)
 Lab 4: Create an Urgent Care visits simulator by using dynamically allocated memory(extension of Lab 3)
 Lab 5: Create an appointment book and use structs to hold the data in an array
