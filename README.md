@@ -18,3 +18,5 @@ Lab 8: Replace at least 1 iterative function with a recursive one(extension of L
 Lab 10(Lab 9 skipped): Encrypt the appointment book and be able to read and write from a file to the book(extension of Lab 6)
 
 Lab 11(Extra Credit): Created a garage storing cars using linked lists
+
+Final Project: Implement a Web browser’s history functionality by using a struct and a linked list data structure and store thebrowser history datain an encrypted file
