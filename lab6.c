@@ -129,22 +129,27 @@ int compare_daytime(daytime a, daytime b)
 {
 if(a.year > b.year)
 {
+  return 1;
+}
 if(a.month > b.month)
 {
+  return 1;
+}
 if(a.day > b.day)
 {
+  return 1;
+}
 if(a.hour > b.hour)
 {
-if(a.minute > b.minute)
+  return 1;
+}
+else if(a.minute > b.minute)
 {
-if(a.second > b.second)
+  return 1;
+}
+else if(a.second > b.second)
 {
 return 1;
-}
-}
-}
-}
-}
 }
 else
 {
